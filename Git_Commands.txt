@@ -1,0 +1,12 @@
+-> git config --global user.name "Ameer"
+-> git config --global user.email "abc@gmail.com"
+-> git config --list
+
+
+-> git init
+-> git add abc.txt/.
+-> git commit -m "First Commit"
+-> git branch M main
+-> git remote add origin https://github.com/ahmarameer8-ops/FirstRepo.git
+-> git push -u origin main
+
